@@ -6,3 +6,4 @@ build/
 *.db-journal
 */*.db
 */*.db-journal
+*.spec
